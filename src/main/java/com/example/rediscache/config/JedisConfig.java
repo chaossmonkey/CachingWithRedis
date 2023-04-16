@@ -1,4 +1,4 @@
-package com.example.rediscache;
+package com.example.rediscache.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.beans.factory.annotation.Value;

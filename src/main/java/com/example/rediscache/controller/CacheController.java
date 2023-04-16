@@ -1,5 +1,6 @@
-package com.example.rediscache;
+package com.example.rediscache.controller;
 
+import com.example.rediscache.service.JedisService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
